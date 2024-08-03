@@ -1,4 +1,4 @@
-<h1 align="justify">Hey, Soy Jurgen</h1>
+<h1 align="justify">Hey, Soy Jurgen.</h1>
 <h3 align="justify">Soy un estudiante de ingeniería en computación, con una gran pasión por el aprendizaje y desarrollo de nuevas tecnologías, con sed de autosuperación tanto a nivel profesional como personal. Este es mi repositorio de Github, donde subo programas o códigos realizados a lo largo de mi carrera estudiantil y profesional.</h3>
 
 <h4>Habilidades:</h4>

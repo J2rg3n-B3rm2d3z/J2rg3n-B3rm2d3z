@@ -104,33 +104,26 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a> 
-
  <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="graphql" width="40" height="40"/> 
  </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
-
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
-
-
-
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> 
-
 <a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer"> 
  <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 
  </a>
-
  <a href="https://www.microsoft.com/es-es/microsoft-365/word" target="_blank" rel="noreferrer"> 
  <img src="https://vectorwiki.com/images/Qwfvh__microsoft-word.svg" alt="Microsft Word" width="40" height="40"/> 
  </a>  

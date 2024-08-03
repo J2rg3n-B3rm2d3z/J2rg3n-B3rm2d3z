@@ -29,7 +29,7 @@
     </li>
 </ul>
 
-<h4>💼 Mi portafolio: https://jurgen-portafolio.vercel.app</h4>
+<h4>💼 Mi portafolio: <a href="https://jurgen-portafolio.vercel.app" target="_blank">jurgen-portafolio.vercel.app</a></h4>
 
 <h4>📩 Me puedes contactar como: jurgenfbermudezpicado@gmail.com</h4>
 

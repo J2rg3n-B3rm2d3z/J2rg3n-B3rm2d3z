@@ -54,16 +54,30 @@
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsft SQLServer" width="40" height="40"/> 
  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+ <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
  </a> 
+ <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.vectorlogo.zone/logos/drawio/images/6fe38e50-405d-4a17-aae8-bce2e377bca8.svg" alt="draw.io" width="40" height="40"/> 
+ </a> 
+
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  </a> 
+ <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
+ <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/cplusplus.svg" alt="c++" width="40" height="40"/> 
+ </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+ </a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png?20210603083010" alt="Visual Basic" width="40" height="40"> 
  </a> 
+
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+ </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
  </a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -73,9 +87,7 @@
  </a> 
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
  </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a> 
+
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a> 

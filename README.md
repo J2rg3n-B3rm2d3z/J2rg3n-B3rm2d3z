@@ -47,8 +47,11 @@
  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
  </a> 
- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
+ <a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer"> 
+ <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+ <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsft SQLServer" width="40" height="40"/> 
  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 

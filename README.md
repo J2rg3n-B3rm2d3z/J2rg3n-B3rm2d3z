@@ -29,11 +29,12 @@
     </li>
 </ul>
 
-<h4>💼 Mi portafolio: <a href="https://jurgen-portafolio.vercel.app" target="_blank">jurgen-portafolio.vercel.app</a></h4>
+<h4>💼 Mi portafolio: <a href="https://jurgen-portafolio.vercel.app" target="blank">jurgen-portafolio.vercel.app</a></h4>
 
 <h4>📩 Me puedes contactar como: jurgenfbermudezpicado@gmail.com</h4>
 
-<h4>🔗 Conoce mas acerca de mi experiencia: https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing</h4>
+<h4>🔗 Conoce mas acerca de mi experiencia en mi 
+<a href="https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing" target="blank"> google drive</a></h4>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">

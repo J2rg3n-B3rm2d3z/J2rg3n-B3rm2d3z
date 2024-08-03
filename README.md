@@ -29,11 +29,11 @@
     </li>
 </ul>
 
-Mi portafolio: [https://jurgen-portafolio.vercel.app//](https://jurgen-portafolio.vercel.app//)
+<h3>Mi portafolio: [https://jurgen-portafolio.vercel.app//](https://jurgen-portafolio.vercel.app//)</h3>
 
-Me puedes contactar como **jurgenfbermudezpicado@gmail.com**
+<h3>Me puedes contactar como **jurgenfbermudezpicado@gmail.com**</h3>
 
-Conoce mas acerca de mi experiencia: [https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing](https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing)
+<h3>Conoce mas acerca de mi experiencia: [https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing](https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing)</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">

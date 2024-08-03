@@ -47,17 +47,12 @@
  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
  </a> 
- 
  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsft SQLServer" width="40" height="40"/> 
  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
  </a> 
- <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
- <img src="https://upload.vectorlogo.zone/logos/drawio/images/6fe38e50-405d-4a17-aae8-bce2e377bca8.svg" alt="draw.io" width="40" height="40"/> 
- </a>
-
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  </a> 
@@ -94,13 +89,18 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/redux.svg" alt="Redux" width="40" height="40"/> 
+</a> 
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg" alt="Angular" width="40" height="40"/> 
 </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
  </a> 
-
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.vectorlogo.zone/logos/drawio/images/6fe38e50-405d-4a17-aae8-bce2e377bca8.svg" alt="draw.io" width="40" height="40"/> 
+ </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a> 

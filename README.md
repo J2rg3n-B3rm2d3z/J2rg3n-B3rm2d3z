@@ -128,7 +128,7 @@
 <img src="https://github.com/pheralb/svgl/blob/main/static/library/illustrator.svg" alt="Illustrator" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/es-es/windows-server" target="_blank" rel="noreferrer">
-<img src="https://worldvectorlogo.com/logo/windows-server-2" alt="Windwos Server" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windwos Server" width="40" height="40"/> 
 </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/linux.svg" alt="Linux" width="40" height="40"/>

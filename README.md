@@ -47,9 +47,7 @@
  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
  </a> 
- <a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer"> 
- <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 
- </a> 
+ 
  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsft SQLServer" width="40" height="40"/> 
  </a> 
@@ -58,7 +56,7 @@
  </a> 
  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/drawio/images/6fe38e50-405d-4a17-aae8-bce2e377bca8.svg" alt="draw.io" width="40" height="40"/> 
- </a> 
+ </a>
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -71,7 +69,7 @@
  </a>
   <a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png?20210603083010" alt="Visual Basic" width="40" height="40"> 
- </a> 
+ </a>
 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -86,7 +84,7 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a> 
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
- </a> 
+ </a>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -117,5 +115,18 @@
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer"> 
+ <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 
+ </a>
+
+ <a href="https://www.microsoft.com/es-es/microsoft-365/word" target="_blank" rel="noreferrer"> 
+ <img src="https://vectorwiki.com/images/Qwfvh__microsoft-word.svg" alt="Microsft Word" width="40" height="40"/> 
+ </a>  
+ <a href="https://www.microsoft.com/es-es/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> 
+ <img src="https://brandeps.com/logo-download/M/Microsoft-Powerpoint-logo-vector-02.svg" alt="Microsft Powerpoint" width="40" height="40"/> 
+ </a>  
+ <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+ <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/revision/latest?cb=20190927105356" alt="Microsft Excel" width="40" height="40"/> 
+ </a>  
 </p>

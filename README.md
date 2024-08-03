@@ -46,9 +46,18 @@
 <p align="left">
  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
- </a> 
+ </a>
+ <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="Java" width="40" height="40"/> 
+</a> 
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" alt="Kotlin" width="40" height="40"/> 
+</a> 
  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsft SQLServer" width="40" height="40"/> 
+ </a>
+ <a href="https://learn.microsoft.com/es-es/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
+ <img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="Microsft SQLServer Managment Studio" width="40" height="40"/> 
  </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
@@ -67,12 +76,6 @@
  </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="Java" width="40" height="40"/> 
-</a> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" alt="Kotlin" width="40" height="40"/> 
 </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -95,6 +98,15 @@
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg" alt="Angular" width="40" height="40"/> 
 </a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/jwt.svg" alt="JWT" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/visual-studio-blue.svg" alt="Visual Studio Code" width="40" height="40"/> 
+</a>
+<a href="https://visualstudio.microsoft.com/es/vs/community/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/visual-studio-blue.svg" alt="Visual Studio Community" width="40" height="40"/> 
+</a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
  </a> 
@@ -106,20 +118,29 @@
  </a> 
  <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="graphql" width="40" height="40"/> 
  </a>
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" alt="Blender" width="40" height="40"/> 
+</a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" alt="Photoshop" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/es/products/illustrator.html" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/pheralb/svgl/blob/main/static/library/illustrator.svg" alt="Illustrator" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/es-es/windows-server" target="_blank" rel="noreferrer">
+<img src="https://worldvectorlogo.com/logo/windows-server-2" alt="Windwos Server" width="40" height="40"/> 
 </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/linux.svg" alt="Linux" width="40" height="40"/>
 </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ubuntu.svg" alt="Ubuntu" width="40" height="40"/>
 </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+<a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/debian.svg" alt="Debian" width="40" height="40"/> 
 </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/detain/svg-logos/blob/master/svg/k/kali-1.svg" alt="Kali Linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer"> 
  <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 

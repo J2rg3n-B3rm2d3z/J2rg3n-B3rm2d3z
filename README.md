@@ -44,8 +44,8 @@
 
 <h3 align="left">Lenguajes de programación y herramientas:</h3>
 <p align="left">
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+ <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
  </a> 
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 

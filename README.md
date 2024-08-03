@@ -43,7 +43,7 @@
 </a>
 </p>
 
-<h3 align="left">Lenguajes de programación y herramientas:</h3>
+<h3 align="left">Lenguajes de programación y herramientas tecnológicas:</h3>
 <p align="left">
  <a href="https://developer.android.com/studio?hl=es-419" target="_blank" rel="noreferrer"> 
  <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 

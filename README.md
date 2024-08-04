@@ -33,7 +33,7 @@
 
 <h4>📩 Me puedes contactar como: jurgenfbermudezpicado@gmail.com</h4>
 
-<h4>🔗 Conoce más acerca de mi experiencia en mi 
+<h4>🔗 Conoce más acerca de mi experiencia en 
 <a href="https://drive.google.com/drive/folders/13Q6L7cJlY01b3ToT-RRlupNxUrVSZFD-?usp=sharing" target="blank"> Google Drive</a></h4>
 
 <h3 align="left">Conecta conmigo:</h3>

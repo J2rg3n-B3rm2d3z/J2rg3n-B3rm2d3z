@@ -154,5 +154,8 @@
  </a>  
  <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
  <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/revision/latest?cb=20190927105356" alt="Microsft Excel" width="40" height="40"/> 
+ </a>
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL Lite" width="40" height="40"/> 
  </a>  
 </p>

@@ -171,4 +171,10 @@
     <a href="https://es.wikipedia.org/wiki/Turbo_C" target="_blank" rel="noreferrer"> 
  <img src="https://vid.geekazine.com/dith/uploads/2013/05/Turbo-C-DITH.png" alt="Turbo C" width="40" height="40"/>
  </a>
+    <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spyder/spyder-original.svg" alt="Spyder" width="40" height="40"/>
+ </a>
+    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUCw6EGyF9_vJg-hOx6_mxB0f2W3yw60_pG_hMF9zvlUrtv4-Vy9ehi3ftuOcG444j0s" alt="Google Colab" width="40" height="40"/>
+ </a>
 </p>

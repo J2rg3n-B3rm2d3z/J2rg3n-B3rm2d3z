@@ -164,4 +164,7 @@
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
  <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/vmware-workstation.svg" alt="Vmware Workstation" width="40" height="40"/>
  </a>
+    <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Vmware Workstation" width="40" height="40"/>
+    </a>
 </p>

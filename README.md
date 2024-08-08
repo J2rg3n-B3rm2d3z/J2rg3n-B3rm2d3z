@@ -120,7 +120,8 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a> 
- <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="graphql" width="40" height="40"/> 
+ <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"     
+     alt="graphql" width="40" height="40"/> 
  </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" alt="Blender" width="40" height="40"/> 

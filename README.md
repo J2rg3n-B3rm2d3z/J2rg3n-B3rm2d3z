@@ -121,7 +121,7 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a> 
  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"     
-     alt="graphql" width="40" height="40"/> 
+     alt="NETCore" width="40" height="40"/> 
  </a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" alt="Blender" width="40" height="40"/> 
@@ -166,6 +166,9 @@
  <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/vmware-workstation.svg" alt="Vmware Workstation" width="40" height="40"/>
  </a>
     <a href="https://aws.amazon.com/es/what-is/xml/#:~:text=El%20lenguaje%20de%20marcado%20extensible%20(XML)%20es%20un%20lenguaje%20de,de%20computaci%C3%B3n%20por%20s%C3%AD%20mismo." target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Vmware Workstation" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40"/>
     </a>
+    <a href="https://es.wikipedia.org/wiki/Turbo_C" target="_blank" rel="noreferrer"> 
+ <img src="https://vid.geekazine.com/dith/uploads/2013/05/Turbo-C-DITH.png" alt="Turbo C" width="40" height="40"/>
+ </a>
 </p>

@@ -165,7 +165,7 @@
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
  <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/vmware-workstation.svg" alt="Vmware Workstation" width="40" height="40"/>
  </a>
-    <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://aws.amazon.com/es/what-is/xml/#:~:text=El%20lenguaje%20de%20marcado%20extensible%20(XML)%20es%20un%20lenguaje%20de,de%20computaci%C3%B3n%20por%20s%C3%AD%20mismo." target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Vmware Workstation" width="40" height="40"/>
     </a>
 </p>

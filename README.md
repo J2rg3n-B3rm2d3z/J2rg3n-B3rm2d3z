@@ -103,7 +103,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg" alt="Angular" width="40" height="40"/> 
 </a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/jwt.svg" alt="JWT" width="40" height="40"/> 
+<img src="https://jwt.io/icon/192?93edc2b0d0185625" alt="JWT" width="40" height="40"/> 
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/visual-studio-blue.svg" alt="Visual Studio Code" width="40" height="40"/> 

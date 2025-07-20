@@ -1,5 +1,5 @@
 <h1 align="justify">Hey, Soy Jurgen.</h1>
-<h3 align="justify">Soy un estudiante de ingeniería en computación, con una gran pasión por el aprendizaje y desarrollo de nuevas tecnologías, con sed de autosuperación tanto a nivel profesional como personal. Este es mi repositorio de Github, donde subo programas o códigos realizados a lo largo de mi carrera estudiantil y profesional.</h3>
+<h3 align="justify">Soy egresado de Ingeniería en Computación con enfoque en desarrollo de software. Apasionado por crear soluciones prácticas y eficientes, con una fuerte motivación por crecer a nivel profesional y personal.</h3>
 
 <h4>Habilidades:</h4>
 <ul>
@@ -169,7 +169,7 @@
  <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40"/>
     </a>
     <a href="https://es.wikipedia.org/wiki/Turbo_C" target="_blank" rel="noreferrer"> 
- <img src="https://vid.geekazine.com/dith/uploads/2013/05/Turbo-C-DITH.png" alt="Turbo C" width="40" height="40"/>
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46726cbf-bd0e-48d5-a923-97d49343f63f/d1aazzy-4134eecb-eacf-4d57-adca-a845f0f60742.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2NzI2Y2JmLWJkMGUtNDhkNS1hOTIzLTk3ZDQ5MzQzZjYzZlwvZDFhYXp6eS00MTM0ZWVjYi1lYWNmLTRkNTctYWRjYS1hODQ1ZjBmNjA3NDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iffqZVAP9CoHMou6-PKg8cPKslKO-8t5q5rHs_2PCVw" alt="Turbo C" width="40" height="40"/>
  </a>
     <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spyder/spyder-original.svg" alt="Spyder" width="40" height="40"/>

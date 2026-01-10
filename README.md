@@ -151,7 +151,7 @@
  <img src="https://static.wikia.nocookie.net/logopedia/images/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsft Project" width="40" height="40"/> 
  </a>
  <a href="https://www.microsoft.com/es-es/microsoft-365/word" target="_blank" rel="noreferrer"> 
- <img src="https://vectorwiki.com/images/Qwfvh__microsoft-word.svg" alt="Microsft Word" width="40" height="40"/> 
+ <img src="https://brandeps.com/logo-download/M/Microsoft-Word-logo-vector-01.svg" alt="Microsft Word" width="40" height="40"/> 
  </a>  
  <a href="https://www.microsoft.com/es-es/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> 
  <img src="https://brandeps.com/logo-download/M/Microsoft-Powerpoint-logo-vector-02.svg" alt="Microsft Powerpoint" width="40" height="40"/> 

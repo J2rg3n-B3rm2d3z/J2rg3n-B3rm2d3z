@@ -1,4 +1,4 @@
-<h1 align="justify">Hey, Soy Jurgen.</h1>
+<h1 align="justify">Saludos, Soy Jurgen.</h1>
 <h3 align="justify">Soy egresado de Ingeniería en Computación con enfoque en desarrollo de software. Apasionado por crear soluciones prácticas y eficientes, con una fuerte motivación por crecer a nivel profesional y personal.</h3>
 
 <h4>Habilidades:</h4>
